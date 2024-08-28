@@ -1,0 +1,6 @@
+Format: TIFF
+Mode: I;16 (This indicates a 16-bit grayscale image)
+Size: 640 x 480 pixels
+Compression: None (raw)
+DPI: 1 x 1 (dots per inch)
+Resolution: 1 x 1
